@@ -1,0 +1,22 @@
+File,MAPE_Top3Model (%),MAPE_FullModel (%),MAPE_HybridModel (%)
+aal_April11-17.csv,7.37,0.94,6.62
+aapl_April11-17.csv,2.96,13.45,9.4
+adbe_April11-17.csv,3.22,2.05,0.89
+amzn_April1-7.csv,6.98,5.18,7.03
+amzn_April11-17.csv,2.8,8.39,9.11
+dis_April11-17.csv,6.69,5.14,1.63
+f_April11-17.csv,4.23,1.93,2.18
+flo_April11-17.csv,1.67,3.36,1.37
+googl_April11-17.csv,2.7,10.16,9.32
+jnj_April7-11.csv,3.76,4.12,1.12
+lmt_April11-17.csv,1.47,3.92,1.23
+meta_April7-11.csv,19.13,11.17,12.69
+mrk_April11-17.csv,4.35,3.97,4.77
+nflx_April11-17.csv,3.29,14.86,5.78
+ntdoy_April11-17.csv,7.14,6.71,8.39
+nvda_April11-17.csv,4.47,25.85,12.66
+sbux_April11-17.csv,3.32,7.04,1.72
+tsla_April7-11.csv,10.81,15.01,12.4
+tsla_April11-17.csv,6.08,8.96,1.88
+tsla_March25-31.csv,1.48,30.14,19.87
+Average,5.2,9.12,6.5

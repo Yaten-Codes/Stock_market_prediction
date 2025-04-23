@@ -1,0 +1,22 @@
+File,Observations,Hybrid_Accuracy (%),FullModel_Accuracy (%),Top3Model_Accuracy (%)
+googl_April11-17.csv,5,40.0,60.0,60.0
+lmt_April11-17.csv,5,40.0,60.0,60.0
+amzn_April11-17.csv,5,40.0,60.0,40.0
+tsla_March25-31.csv,5,60.0,60.0,60.0
+tsla_April11-17.csv,5,60.0,80.0,40.0
+tsla_April7-11.csv,5,60.0,60.0,80.0
+sbux_April11-17.csv,5,60.0,60.0,60.0
+nvda_April11-17.csv,5,60.0,40.0,40.0
+ntdoy_April11-17.csv,5,60.0,80.0,60.0
+nflx_April11-17.csv,5,60.0,60.0,60.0
+mrk_April11-17.csv,5,80.0,80.0,40.0
+meta_April7-11.csv,5,40.0,20.0,60.0
+jnj_April7-11.csv,5,60.0,60.0,20.0
+f_April11-17.csv,5,20.0,60.0,20.0
+amzn_April1-7.csv,5,40.0,40.0,40.0
+aapl_April11-17.csv,5,60.0,60.0,80.0
+aal_April11-17.csv,5,80.0,80.0,60.0
+dis_April11-17.csv,5,80.0,60.0,40.0
+flo_April11-17.csv,5,60.0,60.0,60.0
+adbe_April11-17.csv,5,0.0,40.0,40.0
+Average,100,53.0,59.0,51.0
