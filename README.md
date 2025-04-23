@@ -31,3 +31,46 @@ Each model is evaluated based on:
 
 ## 📁 Example Output File Structure
 
+/predictions/ ├── aapl_April11-17.csv ├── msft_April11-17.csv └── jnj_April14-18.csv
+
+
+Each file contains:
+- Predicted and actual prices
+- Predicted return and actual return
+- Directional accuracy per model
+- MAPE per model
+
+## 📌 Notable Insights
+
+- **Top3 vs Full**: The Top 3 feature model often performs competitively with the full model while being more efficient.
+- **Hybrid Model**: Offers a filtered signal, but its accuracy can be sensitive to classifier-regressor agreement.
+- **Business Day Handling**: Non-business days are excluded from final evaluations.
+
+## 📈 Visuals
+
+- Price comparison line charts (`Actual vs Predicted`)
+- Feature importance bar plots
+- Evaluation summary tables
+
+## 🔧 How to Run
+
+1. Open `LightGBM__Model.ipynb` in Google Colab or Jupyter.
+2. Upload your stock dataset CSVs in the defined format.
+3. Run all cells from top to bottom.
+4. View exported `.csv` results in the `predictions/` folder.
+
+## 📚 Dependencies
+
+- Python 3.10+
+- pandas
+- numpy
+- scikit-learn
+- lightgbm
+- matplotlib
+- seaborn
+
+Install via:
+
+```bash
+pip install pandas numpy scikit-learn lightgbm matplotlib seaborn
+
