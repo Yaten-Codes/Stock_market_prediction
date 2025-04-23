@@ -31,10 +31,8 @@ Each model is evaluated based on:
 
 ## 📁 Example Output File Structure
 
-/predictions/
-├── aapl_April11-17.csv
-├── msft_April11-17.csv
-└── jnj_April14-18.csv
+<pre> ``` /predictions/ ├── aapl_April11-17.csv ├── msft_April11-17.csv └── jnj_April14-18.csv ``` </pre>
+
 
 
 Each file contains:
